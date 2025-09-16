@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/0*XH3rLskyOsCqVV-j.jpg)
 <h1 align="center">Hi 👋, I'm Kartik Goel</h1>
-<h3 align="center">A Passionate Full Stack Wed Developer and a Problem Solver</h3>
+<h3 align="center">A Passionate Full Stack Web Developer and a Problem Solver</h3>
 <h2>BONJURE 👋</h2>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <h3> 💻 About Me </h3>
