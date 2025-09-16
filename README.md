@@ -26,7 +26,7 @@
   
 - 🌐 Tailwind CSS | Bootstrap
 
-- 🛢 SQL | MySQL | MongoDB
+- 🛢 SQL | MySQL | MongoDB |Prisma + SQL-LITE + MIGRATIONS
 
 - 🔧 Visual Studio code | Git
 
