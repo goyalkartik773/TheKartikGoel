@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goyalkartik773&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" /></p><hr>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=goyalkartik773&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" /></p><hr>
 <p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/goyalkartik773/count.svg" /></p>
 <h2 align="left">Sab Dekh Kr Jana......</h2>
 
