@@ -51,7 +51,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goyalkartik773&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=goyalkartik773&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" /></p><hr>
+<p><img align="center" src="https://camo.githubusercontent.com/bee87b0b8a1c32633c6d2505e44ce9c9698a5edcd8f20b2509cd5284c3c75163/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d676f79616c6b617274696b373733267468656d653d6769746875622d6461726b26686964655f626f726465723d7472756526636f756e745f707269766174653d7472756526646174655f666f726d61743d6a2532304d25354225323059253544" /></p><hr>
 <p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/goyalkartik773/count.svg" /></p>
 <h2 align="left">Sab Dekh Kr Jana......</h2>
 
