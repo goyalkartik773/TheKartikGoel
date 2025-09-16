@@ -64,7 +64,7 @@
 | [![CodeChef](https://img.shields.io/badge/CodeChef-%2336465D.svg?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/goyalkartik773) | 1st Platform where I started my CP. |
 | [![CodeForces](https://img.shields.io/badge/CodeForces-F60023?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/goyalkartik773) | After Codechef, lets see Codeforces. |
 | [![HackerRank](https://img.shields.io/badge/-HackerRank-181717?style=for-the-badge&logo=hackerank&logoColor=white)](https://www.hackerrank.com/goyalkartik773) | Platform Where I practice my skill. |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/goyalkartik773) | Platform Where I practice my DSA. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/Kartikgoel773) | Platform Where I practice my DSA. |
 | [![GFG](https://img.shields.io/badge/GFG-00FF00?style=for-the-badge&logo=gfg&logoColor=white)](https://auth.geeksforgeeks.org/user/goyalkartik773) | Not so much practice in this Platform. |
 
 
